@@ -1,0 +1,38 @@
+.header{
+  background-color: rgb(36, 36, 36);
+  padding: 10px;
+  top: 0;
+  color: rgb(101, 218, 251);
+  display: flex;
+  align-items: center;
+}
+
+.header-logo{
+  width: 80px;
+  height: 50px;
+}
+
+.header-content{
+  margin-left: 0;
+}
+
+.content{
+  padding: 50px;
+  color: white;
+}
+
+.content-header{
+  padding: 20px;
+  font-size: 50px;
+}
+
+ul{
+  line-height: 3;
+  font-size: large;
+  list-style: disc;
+}
+
+::marker{
+  color: rgb(101, 218, 251);
+  padding: 5px;
+}
